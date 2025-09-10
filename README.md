@@ -3,7 +3,7 @@
 An interactive Tableau dashboard designed to uncover and communicate patterns in global terrorism using multi-source datasets. The project explores trends, regional intensity, and the developmental impact of terrorism, with a strong focus on storytelling and stakeholder-centric visuals.
 
 > 🔗 **Live Dashboard**: [View on Tableau Public](#)  
-> *(Will update once published)*
+> *https://public.tableau.com/app/profile/sudoku.master/viz/GlobalTerrorism_17433593038160/GlobalTerrorism1970-2017?publish=yes*
 
 ---
 
